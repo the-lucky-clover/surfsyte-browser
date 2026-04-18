@@ -61,8 +61,8 @@ body:
   - type: textarea
     id: version
     attributes:
-      label: Desktop SurfSyte Browser version (brave://version info)
-      description: "`SurfSyte Browser`, `Revision` and `OS` from `brave://version`"
+      label: Desktop SurfSyte Browser version (version info page)
+      description: "`SurfSyte Browser`, `Revision` and `OS` from the browser version page"
     validations:
       required: true
   - type: textarea
