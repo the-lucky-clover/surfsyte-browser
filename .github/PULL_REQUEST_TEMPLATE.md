@@ -29,11 +29,11 @@ Resolves
   - [ ] https://github.com/the-lucky-clover/surfsyte-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)
   - [ ] https://github.com/the-lucky-clover/surfsyte-browser/wiki/Proxy-redirected-URLs
   - [ ] https://github.com/the-lucky-clover/surfsyte-browser/wiki/Fingerprinting-Protections
-  - [ ] https://github.com/the-lucky-clover/surfsyte-browser/wiki/SurfSyte%E2%80%99s-Use-of-Referral-Codes
+  - [ ] https://github.com/the-lucky-clover/surfsyte-browser/wiki/SurfSyte-Browser-Use-of-Referral-Codes
   - [ ] https://github.com/the-lucky-clover/surfsyte-browser/wiki/Custom-Headers
   - [ ] https://github.com/the-lucky-clover/surfsyte-browser/wiki/Web-Compatibility-Exceptions-in-SurfSyte-Browser
   - [ ] https://github.com/the-lucky-clover/surfsyte-browser/wiki/QA-Guide
   - [ ] https://github.com/the-lucky-clover/surfsyte-browser/wiki/P3A
-  - [ ] https://github.com/the-lucky-clover/surfsyte-browser/wiki/SurfSyte-Wallet
+  - [ ] https://github.com/the-lucky-clover/surfsyte-browser/wiki/SurfSyte-Browser-Wallet
 
 ## Test Plan:
